@@ -1,0 +1,61 @@
+country,alpha2,alpha3,region,subregion
+Algeria,DZ,DZA,Africa,Northern Africa
+Angola,AO,AGO,Africa,Sub-Saharan Africa
+Benin,BJ,BEN,Africa,Sub-Saharan Africa
+Botswana,BW,BWA,Africa,Sub-Saharan Africa
+British Indian Ocean Territory,IO,IOT,Africa,Sub-Saharan Africa
+Burkina Faso,BF,BFA,Africa,Sub-Saharan Africa
+Burundi,BI,BDI,Africa,Sub-Saharan Africa
+Cabo Verde,CV,CPV,Africa,Sub-Saharan Africa
+Cameroon,CM,CMR,Africa,Sub-Saharan Africa
+Central African Republic,CF,CAF,Africa,Sub-Saharan Africa
+Chad,TD,TCD,Africa,Sub-Saharan Africa
+Comoros,KM,COM,Africa,Sub-Saharan Africa
+Congo,CG,COG,Africa,Sub-Saharan Africa
+Congo (Democratic Republic of the),CD,COD,Africa,Sub-Saharan Africa
+Côte d'Ivoire,CI,CIV,Africa,Sub-Saharan Africa
+Djibouti,DJ,DJI,Africa,Sub-Saharan Africa
+Egypt,EG,EGY,Africa,Northern Africa
+Equatorial Guinea,GQ,GNQ,Africa,Sub-Saharan Africa
+Eritrea,ER,ERI,Africa,Sub-Saharan Africa
+Ethiopia,ET,ETH,Africa,Sub-Saharan Africa
+French Southern Territories,TF,ATF,Africa,Sub-Saharan Africa
+Gabon,GA,GAB,Africa,Sub-Saharan Africa
+Gambia,GM,GMB,Africa,Sub-Saharan Africa
+Ghana,GH,GHA,Africa,Sub-Saharan Africa
+Guinea,GN,GIN,Africa,Sub-Saharan Africa
+Guinea-Bissau,GW,GNB,Africa,Sub-Saharan Africa
+Kenya,KE,KEN,Africa,Sub-Saharan Africa
+Lesotho,LS,LSO,Africa,Sub-Saharan Africa
+Liberia,LR,LBR,Africa,Sub-Saharan Africa
+Libya,LY,LBY,Africa,Northern Africa
+Madagascar,MG,MDG,Africa,Sub-Saharan Africa
+Malawi,MW,MWI,Africa,Sub-Saharan Africa
+Mali,ML,MLI,Africa,Sub-Saharan Africa
+Mauritania,MR,MRT,Africa,Sub-Saharan Africa
+Mauritius,MU,MUS,Africa,Sub-Saharan Africa
+Mayotte,YT,MYT,Africa,Sub-Saharan Africa
+Morocco,MA,MAR,Africa,Northern Africa
+Mozambique,MZ,MOZ,Africa,Sub-Saharan Africa
+Namibia,,NAM,Africa,Sub-Saharan Africa
+Niger,NE,NER,Africa,Sub-Saharan Africa
+Nigeria,NG,NGA,Africa,Sub-Saharan Africa
+Réunion,RE,REU,Africa,Sub-Saharan Africa
+Rwanda,RW,RWA,Africa,Sub-Saharan Africa
+"Saint Helena, Ascension and Tristan da Cunha",SH,SHN,Africa,Sub-Saharan Africa
+Sao Tome and Principe,ST,STP,Africa,Sub-Saharan Africa
+Senegal,SN,SEN,Africa,Sub-Saharan Africa
+Seychelles,SC,SYC,Africa,Sub-Saharan Africa
+Sierra Leone,SL,SLE,Africa,Sub-Saharan Africa
+Somalia,SO,SOM,Africa,Sub-Saharan Africa
+South Africa,ZA,ZAF,Africa,Sub-Saharan Africa
+South Sudan,SS,SSD,Africa,Sub-Saharan Africa
+Sudan,SD,SDN,Africa,Northern Africa
+Swaziland,SZ,SWZ,Africa,Sub-Saharan Africa
+"Tanzania, United Republic of",TZ,TZA,Africa,Sub-Saharan Africa
+Togo,TG,TGO,Africa,Sub-Saharan Africa
+Tunisia,TN,TUN,Africa,Northern Africa
+Uganda,UG,UGA,Africa,Sub-Saharan Africa
+Western Sahara,EH,ESH,Africa,Northern Africa
+Zambia,ZM,ZMB,Africa,Sub-Saharan Africa
+Zimbabwe,ZW,ZWE,Africa,Sub-Saharan Africa

@@ -1,0 +1,30 @@
+country,alpha2,alpha3,region,subregion
+American Samoa,AS,ASM,Oceania,Polynesia
+Australia,AU,AUS,Oceania,Australia and New Zealand
+Christmas Island,CX,CXR,Oceania,Australia and New Zealand
+Cocos (Keeling) Islands,CC,CCK,Oceania,Australia and New Zealand
+Cook Islands,CK,COK,Oceania,Polynesia
+Fiji,FJ,FJI,Oceania,Melanesia
+French Polynesia,PF,PYF,Oceania,Polynesia
+Guam,GU,GUM,Oceania,Micronesia
+Heard Island and McDonald Islands,HM,HMD,Oceania,Australia and New Zealand
+Kiribati,KI,KIR,Oceania,Micronesia
+Marshall Islands,MH,MHL,Oceania,Micronesia
+Micronesia (Federated States of),FM,FSM,Oceania,Micronesia
+Nauru,NR,NRU,Oceania,Micronesia
+New Caledonia,NC,NCL,Oceania,Melanesia
+New Zealand,NZ,NZL,Oceania,Australia and New Zealand
+Niue,NU,NIU,Oceania,Polynesia
+Norfolk Island,NF,NFK,Oceania,Australia and New Zealand
+Northern Mariana Islands,MP,MNP,Oceania,Micronesia
+Palau,PW,PLW,Oceania,Micronesia
+Papua New Guinea,PG,PNG,Oceania,Melanesia
+Pitcairn,PN,PCN,Oceania,Polynesia
+Samoa,WS,WSM,Oceania,Polynesia
+Solomon Islands,SB,SLB,Oceania,Melanesia
+Tokelau,TK,TKL,Oceania,Polynesia
+Tonga,TO,TON,Oceania,Polynesia
+Tuvalu,TV,TUV,Oceania,Polynesia
+United States Minor Outlying Islands,UM,UMI,Oceania,Micronesia
+Vanuatu,VU,VUT,Oceania,Melanesia
+Wallis and Futuna,WF,WLF,Oceania,Polynesia

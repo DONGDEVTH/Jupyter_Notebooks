@@ -1,0 +1,52 @@
+country,alpha2,alpha3,region,subregion
+Afghanistan,AF,AFG,Asia,Southern Asia
+Armenia,AM,ARM,Asia,Western Asia
+Azerbaijan,AZ,AZE,Asia,Western Asia
+Bahrain,BH,BHR,Asia,Western Asia
+Bangladesh,BD,BGD,Asia,Southern Asia
+Bhutan,BT,BTN,Asia,Southern Asia
+Brunei Darussalam,BN,BRN,Asia,South-eastern Asia
+Cambodia,KH,KHM,Asia,South-eastern Asia
+China,CN,CHN,Asia,Eastern Asia
+Cyprus,CY,CYP,Asia,Western Asia
+Georgia,GE,GEO,Asia,Western Asia
+Hong Kong,HK,HKG,Asia,Eastern Asia
+India,IN,IND,Asia,Southern Asia
+Indonesia,ID,IDN,Asia,South-eastern Asia
+Iran (Islamic Republic of),IR,IRN,Asia,Southern Asia
+Iraq,IQ,IRQ,Asia,Western Asia
+Israel,IL,ISR,Asia,Western Asia
+Japan,JP,JPN,Asia,Eastern Asia
+Jordan,JO,JOR,Asia,Western Asia
+Kazakhstan,KZ,KAZ,Asia,Central Asia
+Korea (Democratic People's Republic of),KP,PRK,Asia,Eastern Asia
+Korea (Republic of),KR,KOR,Asia,Eastern Asia
+Kuwait,KW,KWT,Asia,Western Asia
+Kyrgyzstan,KG,KGZ,Asia,Central Asia
+Lao People's Democratic Republic,LA,LAO,Asia,South-eastern Asia
+Lebanon,LB,LBN,Asia,Western Asia
+Macao,MO,MAC,Asia,Eastern Asia
+Malaysia,MY,MYS,Asia,South-eastern Asia
+Maldives,MV,MDV,Asia,Southern Asia
+Mongolia,MN,MNG,Asia,Eastern Asia
+Myanmar,MM,MMR,Asia,South-eastern Asia
+Nepal,NP,NPL,Asia,Southern Asia
+Oman,OM,OMN,Asia,Western Asia
+Pakistan,PK,PAK,Asia,Southern Asia
+"Palestine, State of",PS,PSE,Asia,Western Asia
+Philippines,PH,PHL,Asia,South-eastern Asia
+Qatar,QA,QAT,Asia,Western Asia
+Saudi Arabia,SA,SAU,Asia,Western Asia
+Singapore,SG,SGP,Asia,South-eastern Asia
+Sri Lanka,LK,LKA,Asia,Southern Asia
+Syrian Arab Republic,SY,SYR,Asia,Western Asia
+"Taiwan, Province of China",TW,TWN,Asia,Eastern Asia
+Tajikistan,TJ,TJK,Asia,Central Asia
+Thailand,TH,THA,Asia,South-eastern Asia
+Timor-Leste,TL,TLS,Asia,South-eastern Asia
+Turkey,TR,TUR,Asia,Western Asia
+Turkmenistan,TM,TKM,Asia,Central Asia
+United Arab Emirates,AE,ARE,Asia,Western Asia
+Uzbekistan,UZ,UZB,Asia,Central Asia
+Viet Nam,VN,VNM,Asia,South-eastern Asia
+Yemen,YE,YEM,Asia,Western Asia
